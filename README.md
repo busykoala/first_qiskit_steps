@@ -39,3 +39,5 @@ The token can be generated in your [IMB Bluemix Account](https://quantumexperien
 [Jupyter Tutorial](https://nbviewer.jupyter.org/github/Qiskit/qiskit-tutorial/tree/master/community/)
 
 [Youtube: Quantum Entanglement](https://www.youtube.com/watch?v=0Eeuqh9QfNI&list=PLA27CEA1B8B27EB67)
+
+[Study Material - ML](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
